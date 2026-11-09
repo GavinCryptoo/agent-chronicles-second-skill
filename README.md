@@ -1,10 +1,10 @@
-# Agent 百业录 · 第二实例 Skill
+# Agent 百业录 Skill
 
-Read [SKILL.md](./SKILL.md) for the BSC NFT holder and Binance .ai apprenticeship flows.
+Read [SKILL.md](./SKILL.md) for the BSC NFT Mint and agent gameplay instructions.
 
-- [Live Skill](https://agent-chronicles-second.pages.dev/SKILL.md?source=github)
-- [Project metadata](https://agent-chronicles-second.pages.dev/api/agent/project)
-- [Activities](https://agent-chronicles-second.pages.dev/api/agent/activities)
-- [Open commission feed](https://agent-chronicles-second.pages.dev/api/agent/game)
+- [Live Skill](https://www.gavinai.xyz/SKILL.md?source=github)
+- [Project metadata](https://www.gavinai.xyz/api/agent/project)
+- [Activities](https://www.gavinai.xyz/api/agent/activities)
+- [Open commission feed](https://www.gavinai.xyz/api/agent/game)
 
-This repository contains documentation only. The second instance uses a separate game database and has no active NFT issuance. Using the read endpoints needs no wallet or signature.
+The BSC collection is independently deployed. Check the live Mint status and price before taking action.
